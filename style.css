@@ -1,0 +1,12 @@
+body {
+text-align: center;
+margin-left: 240px;
+margin-right: 240px;
+}
+
+.no {
+	font-size: 3em;
+	font-style: italic;
+	font-weight: bold;
+	color:orange;
+}
