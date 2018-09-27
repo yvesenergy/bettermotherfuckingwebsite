@@ -2,6 +2,7 @@ body {
 text-align: center;
 margin-left: 240px;
 margin-right: 240px;
+background-color: bisque;
 }
 
 .no {
@@ -9,4 +10,20 @@ margin-right: 240px;
 	font-style: italic;
 	font-weight: bold;
 	color:orange;
+}
+
+#popup {
+	background-color: blueviolet;
+	border-radius:15px;
+	margin-top: 15%;
+	position: fixed;
+	margin-left: 200px;
+	margin-right: 250px;
+	font-size: 2.5em;
+	display: none;
+	weight:500px;
+}
+
+#tou {
+	
 }
